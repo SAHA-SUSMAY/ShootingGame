@@ -4,6 +4,7 @@ public class GameWorld {
 	static Player player;
 
 	public static Vector<PlayerBullet> playerBullets;
+	static Vector<Enemy>enemies;
 
 
 }
